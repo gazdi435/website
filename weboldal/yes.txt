@@ -1,0 +1,11 @@
+onclick='document.getElementById("yes").innerHTML = "no"'
+    <div>
+        <button type="button" onclick="elsogomb()">1.</button>
+        <button type="button" onclick="masodikgomb()">2.</button>
+        <button type="button" onclick="harmadikgomb()">3.</button>
+        <button type="button" onclick="negyedikgomb()">4.</button>
+        <button type="button" onclick="ötödikgomb()">5.</button>
+        <button type="button" onclick="hatodikgomb()">6.</button>
+        <button type="button" onclick="hetedikgomb()">7.</button>
+        <button type="button" onclick="nyolcadikgomb()">8.</button>
+    </div>
